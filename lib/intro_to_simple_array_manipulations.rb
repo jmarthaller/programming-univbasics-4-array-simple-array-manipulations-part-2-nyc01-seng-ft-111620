@@ -24,5 +24,5 @@ end
 
 
 def using_delete_at(array, element)
-  return array.insert(4, element)
+    array.delete_at(string)
 end
