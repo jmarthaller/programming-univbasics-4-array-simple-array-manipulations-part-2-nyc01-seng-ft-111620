@@ -19,7 +19,7 @@ end
 
 
 def using_delete(array, string)
-  return array.insert(4, element)
+  array.delete(string)
 end
 
 
