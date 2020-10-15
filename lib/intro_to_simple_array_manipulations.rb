@@ -4,5 +4,5 @@ end
 
 
 def using_insert(array, element)
-  return array.insert(element)
+  return array.insert(4, element)
 end
