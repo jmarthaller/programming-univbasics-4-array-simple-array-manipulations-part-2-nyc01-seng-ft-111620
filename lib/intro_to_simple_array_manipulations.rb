@@ -16,3 +16,13 @@ end
 def using_flatten(array)
   return array.flatten
 end
+
+
+def using_delete(array, string)
+  return array.insert(4, element)
+end
+
+
+def using_delete_at(array, element)
+  return array.insert(4, element)
+end
